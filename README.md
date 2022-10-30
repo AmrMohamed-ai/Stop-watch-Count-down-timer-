@@ -1,1 +1,2 @@
 # Stop-watch-Count-down-timer-
+based on ATmega16 Microcontroller there is 2 mode of operations first one stop watch with 3 buttons for pause, resume, reset options. The second mode is count down timer with 3 buttons for hours, minutes and seconds to input the time every press increase or decrease the start time depending on other switch button to indicate plus or minus and the start switch Drivers implemented in the project: External interrupts, timer
